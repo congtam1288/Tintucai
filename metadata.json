@@ -1,0 +1,6 @@
+{
+  "name": "Bản Tin AI",
+  "description": "Ứng dụng tạo video tin tức tự động và đăng TikTok với Google AI và FFmpeg",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
